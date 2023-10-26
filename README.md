@@ -1,6 +1,8 @@
-# Ai_project-Doc
-Ai project &amp; document
+#Handwritten Character English
 
 link dataset that used in our project-->https://www.kaggle.com/datasets/crawford/emnist 
-check it if u want to run our code 
+
+-- build from scratch ANN model and CNN model to detect and predict Handwritten Character with high accuracy 
+
+-- all of information found at doc and u can run code at Github co-pilot  to check the accuracy
 
